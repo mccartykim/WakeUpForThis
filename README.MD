@@ -1,4 +1,4 @@
-# Stupid Browser Tricks
+# Stupid Phone Tricks
 
 I have stuff to do at my stint at the RC, but I also like my bed.  My brain seems to think sleep is good, and programming is bad, but it turns out society, employers, and my sense of self-esteem do not agree.
 
